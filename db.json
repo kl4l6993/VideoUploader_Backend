@@ -1,0 +1,186 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "SPADIKAM",
+      "cover_image": "https://i.postimg.cc/59pnyJyk/spadikam-1200.jpg",
+      "video_url": "https://www.youtube.com/embed/QKsjcae4IWg?autoplay=1"
+    },
+    {
+      "id": 2,
+      "caption": "VALYETTAN",
+      "cover_image": "https://i.postimg.cc/s2RNScrn/ettan.jpg",
+      "video_url": "https://www.youtube.com/embed/DaBxr6xYNqo?autoplay=1"
+    },
+    {
+      "id": 3,
+      "caption": "RAVANAPRABHU",
+      "cover_image": "https://i.postimg.cc/J4Z3JWzL/ravanaprabhu.jpg",
+      "video_url": "https://www.youtube.com/embed/MXGpE0TXrP8?autoplay=1"
+    },
+    {
+      "id": 4,
+      "caption": "NARASIMHAM",
+      "cover_image": "https://i.postimg.cc/qR6bqhCs/images.jpg",
+      "video_url": "https://www.youtube.com/embed/-LWPKL1J-Mk?autoplay=1"
+    },
+    {
+      "id": "loipxy1s",
+      "caption": "VIKRAM",
+      "cover_image": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/07/10/273e787ba809e725948334340c658e68_original.jpg",
+      "video_url": "https://www.youtube.com/embed/OKBMCL-frPU?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Crime",
+      "videos": [
+        {
+          "id": 4,
+          "caption": "NARASIMHAM",
+          "cover_image": "https://i.postimg.cc/qR6bqhCs/images.jpg",
+          "video_url": "https://www.youtube.com/embed/-LWPKL1J-Mk?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "loipvzc7",
+      "name": "Romance",
+      "videos": []
+    },
+    {
+      "id": 5,
+      "name": "THRILLER",
+      "videos": []
+    },
+    {
+      "id": 6,
+      "name": "SUSPENSE",
+      "videos": [
+        {
+          "id": 4,
+          "caption": "NARASIMHAM",
+          "cover_image": "https://i.postimg.cc/qR6bqhCs/images.jpg",
+          "video_url": "https://www.youtube.com/embed/-LWPKL1J-Mk?autoplay=1"
+        },
+        {
+          "id": 3,
+          "caption": "RAVANAPRABHU",
+          "cover_image": "https://i.postimg.cc/J4Z3JWzL/ravanaprabhu.jpg",
+          "video_url": "https://www.youtube.com/embed/MXGpE0TXrP8?autoplay=1"
+        },
+        {
+          "id": "loipxy1s",
+          "caption": "VIKRAM",
+          "cover_image": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/07/10/273e787ba809e725948334340c658e68_original.jpg",
+          "video_url": "https://www.youtube.com/embed/OKBMCL-frPU?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lokrpigb",
+      "video_title": "NARASIMHAM",
+      "url": "https://www.youtube.com/embed/-LWPKL1J-Mk?autoplay=1",
+      "date": "2023-11-05 6:31:25 AM"
+    },
+    {
+      "id": "lokw6lr4",
+      "video_title": "SPADIKAM",
+      "url": "https://www.youtube.com/embed/QKsjcae4IWg?autoplay=1",
+      "date": "2023-11-05 8:36:41 AM"
+    },
+    {
+      "id": "lokw6ql2",
+      "video_title": "NARASIMHAM",
+      "url": "https://www.youtube.com/embed/-LWPKL1J-Mk?autoplay=1",
+      "date": "2023-11-05 8:36:47 AM"
+    },
+    {
+      "id": "lol22yoi",
+      "video_title": "VALYETTAN",
+      "url": "https://www.youtube.com/embed/DaBxr6xYNqo?autoplay=1",
+      "date": "2023-11-05 11:21:49 AM"
+    },
+    {
+      "id": "lol232hc",
+      "video_title": "SPADIKAM",
+      "url": "https://www.youtube.com/embed/QKsjcae4IWg?autoplay=1",
+      "date": "2023-11-05 11:21:54 AM"
+    },
+    {
+      "id": "lol235nr",
+      "video_title": "RAVANAPRABHU",
+      "url": "https://www.youtube.com/embed/MXGpE0TXrP8?autoplay=1",
+      "date": "2023-11-05 11:21:58 AM"
+    },
+    {
+      "id": "lol3y87c",
+      "video_title": "VALYETTAN",
+      "url": "https://www.youtube.com/embed/DaBxr6xYNqo?autoplay=1",
+      "date": "2023-11-05 12:14:07 PM"
+    },
+    {
+      "id": "lol52me5",
+      "video_title": "RAVANAPRABHU",
+      "url": "https://www.youtube.com/embed/MXGpE0TXrP8?autoplay=1",
+      "date": "2023-11-05 12:45:32 PM"
+    },
+    {
+      "id": "lol52p1n",
+      "video_title": "RAVANAPRABHU",
+      "url": "https://www.youtube.com/embed/MXGpE0TXrP8?autoplay=1",
+      "date": "2023-11-05 12:45:35 PM"
+    },
+    {
+      "id": "lol53i12",
+      "video_title": "VALYETTAN",
+      "url": "https://www.youtube.com/embed/DaBxr6xYNqo?autoplay=1",
+      "date": "2023-11-05 12:46:13 PM"
+    },
+    {
+      "id": "lol7sd7e",
+      "video_title": "RAVANAPRABHU",
+      "url": "https://www.youtube.com/embed/MXGpE0TXrP8?autoplay=1",
+      "date": "2023-11-05 2:01:32 PM"
+    },
+    {
+      "id": "lol7th34",
+      "video_title": "SPADIKAM",
+      "url": "https://www.youtube.com/embed/QKsjcae4IWg?autoplay=1",
+      "date": "2023-11-05 2:02:24 PM"
+    },
+    {
+      "id": "lol8fxs0",
+      "video_title": "SPADIKAM",
+      "url": "https://www.youtube.com/embed/QKsjcae4IWg?autoplay=1",
+      "date": "2023-11-05 2:19:52 PM"
+    },
+    {
+      "id": "lolmpdu5",
+      "video_title": "SPADIKAM",
+      "url": "https://www.youtube.com/embed/QKsjcae4IWg?autoplay=1",
+      "date": "2023-11-05 8:59:07 PM"
+    },
+    {
+      "id": "lombne1y",
+      "video_title": "VALYETTAN",
+      "url": "https://www.youtube.com/embed/DaBxr6xYNqo?autoplay=1",
+      "date": "2023-11-06 8:37:25 AM"
+    },
+    {
+      "id": "lomd3u6l",
+      "video_title": "NARASIMHAM",
+      "url": "https://www.youtube.com/embed/-LWPKL1J-Mk?autoplay=1",
+      "date": "2023-11-06 9:18:12 AM"
+    },
+    {
+      "id": "looijdqr",
+      "video_title": "NARASIMHAM",
+      "url": "https://www.youtube.com/embed/-LWPKL1J-Mk?autoplay=1",
+      "date": "2023-11-07 9:25:47 PM"
+    }
+  ]
+}
